@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "StorTrack",
+      "image": "storeTrack.png",
+      "link": "https://www.stortrack.com/",
+      "githubLink": "",
+      "tags": ["JavaScript", "React", "mapbox.js", "Material UI"],
+      "features": ["Protected Routes", "Lazy Loading", "Dynamic Routing"],
+      "organisationWorkedWith": "Aggregate Intelligence",
+      "organisationLogo": "aiLogo.png",
+      "description": "Stortrack is a selfstorge platform. It helps users to find nearby place to store house goods."
+    },
+    {
+      "id": 2,
+      "name": "Earning Beats",
+      "image": "earningBeats.jpeg",
+      "link": "https://www.earningsbeats.com/",
+      "githubLink": "",
+      "tags": ["React", "TypeScript", "Tanstack Query", "Tailwind", "Node.js", "MySQL"],
+      "features": ["Protected Routes", "Lazy Loading", "Role Beased Access Control (RBAC)", "Dynamic Routing"],
+      "organisationWorkedWith": "Pando India Software Consultants",
+      "organisationLogo": "pandoLogo.png",
+      "description": "Earning Beats is a visual stock market analyser. It helps portfolio managers make trade recommendations for their clients."
+    },
+    {
+      "id": 3,
+      "name": "Zamplia",
+      "image": "zamplia.jpeg",
+      "link": "https://zamplia.com/",
+      "githubLink": "",
+      "tags": ["HTML", "CSS", "JavaScript", "React.Js", "Redux.JS"],
+      "features": [""],
+      "organisationWorkedWith": "Pando India Software Consultants",
+      "organisationLogo": "pandoLogo.png",
+      "description": "This online survey app integrates multiple vendors (Dynata, Voxco, Precision, Tap Research, Market Cube) providing diverse audience segments with varying qualifications, age groups, and more."
+    },
+    {
+      "id": 4,
+      "name": "Game Dashboard",
+      "image": "gameDashboard.png",
+      "link": "",
+      "githubLink": "",
+      "tags": ["React.JS", "javaScript", "Node.JS", "MySql"],
+      "features": [""],
+      "organisationWorkedWith": "NMS Games Private Limited",
+      "organisationLogo": "nmsGames.jpeg",
+      "description": "I transitioned a PHP-based dashboard into a contemporary React.js application. This dashboard serves as a management interface for game app owners, enabling them to efficiently manage their Android game app. Through this web-based dashboard, administrators can conduct various tasks such as updating, verifying, and authenticating users via Aadhar details. Additionally, they have the ability to perform actions such as blocking users, as well as checking and managing user details, including points, currency, and status, among other functionalities."
+    },
+    {
+      "id": 5,
+      "name": "Sarkari Filing",
+      "image": "sarkarifiling.jpeg",
+      "link": "https://www.sarkarifiling.com/",
+      "githubLink": "",
+      "tags": ["Next.js", "TypeScript", "CSS", "HTML"],
+      "features": ["Dropdown List", "Mobile Responsive", "Smooth scroll"],
+      "organisationWorkedWith": "Sarkari Filing",
+      "organisationLogo": "sarkarifilingsLogo.png",
+      "description": "In developing the landing page for Sarkari Filings, I employed a blend of creativity and precision, harnessing plain CSS and HTML within the Next.js framework to construct a captivating user experience. The header and footer sections were meticulously crafted to frame the page with intuitive navigation and essential information, ensuring seamless exploration for users. Introducing an element of interactivity, I integrated a dropdown list feature, enhanced with subtle animations to elevate user engagement and provide a dynamic browsing experience. These animations, while light, add a touch of elegance and modernity to the UI, complementing the overall aesthetic. By combining innovative design elements with industry-standard coding practices, the landing page of Sarkari Filings sets the stage for a seamless journey through government form submissions, enticing users to engage further with the platforms intuitive functionality and streamlined workflows"
+    }
+  ],
+  "contacts": [],
+  "views": [
+    {
+      "id": "portfolio",
+      "viewCount": 677
+    }
+  ]
+}
